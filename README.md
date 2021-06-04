@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mahakgupta06
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
 - 📫 How to reach me 
      
      email : mehak2001gupta@gmail.com
